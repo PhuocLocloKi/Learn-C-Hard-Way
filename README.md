@@ -1,14 +1,35 @@
-# 🏛️ Learn C the Hard Way
+<div align="center">
 
-![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Logic_%26_Algorithms-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active_Learning-success?style=for-the-badge)
+<img src="https://media.giphy.com/media/26tn33aiU1iGPqEWW/giphy.gif" width="100%" height="10" />
 
-> A structured, hands-on repository documenting my journey of learning C programming — from logical fundamentals to algorithmic thinking and array-based data processing.
->
-> **This project focuses on how to think in C, not just how to write syntax.**
+<br/>
 
----
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="120" alt="C Logo">
+    </td>
+    <td align="left">
+      <h1>🏛️ Learn C the Hard Way</h1>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=22C55E&width=500&lines=Initialising+Memory...;Allocating+Knowledge+Buffer...;Loading:+Logic_+Algorithms_+Pointers...;Status:+Ready+to+Code!" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <img src="https://img.shields.io/badge/Language-C99%20%2F%20C11-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-VS%20Code%20%2F%20VIM-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Linux%20%2F%20Unix-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Low--Level%20Logic-red?style=for-the-badge&logo=intel&logoColor=white" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=PhuocLocIoKi-LearnC&label=Project+Views&color=blue&style=flat" alt="Views" />
+
+<br/><br/>
+
+</div>
 
 ## 📌 What This Repository Is About
 
@@ -124,3 +145,4 @@ We follow a disciplined, 5-step engineering approach to ensure code quality:
 * **Array Fundamentals** — *Data structures & memory layout*
 * **Pointers & Memory** — *The "Hard" Part: Direct memory access*
 * **Structs & File I/O** — *Data persistence & complex types*
+
